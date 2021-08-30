@@ -1,0 +1,1 @@
+# AdonisJS + SvelteJS + InertiaJS Boiler Plate
