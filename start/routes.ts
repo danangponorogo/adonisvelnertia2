@@ -21,5 +21,5 @@
 import Route from '@ioc:Adonis/Core/Route'
 
 Route.get('/', async ({ inertia }) => {
-  return inertia.render('Test', { nama: 'Danang Dismantoro' })
+  return inertia.render('Home', { nama: 'Danang Dismantoro' })
 })
